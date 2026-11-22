@@ -1,0 +1,25 @@
+{
+  "name": "TOEIC Study Vault｜英文題庫",
+  "short_name": "TOEIC 題庫",
+  "description": "離線 TOEIC 練習題庫、答案解析與備份",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#142338",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
